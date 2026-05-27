@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersender",
+        "uuid": 8721792,
+        "checksum": "jsxswd"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
